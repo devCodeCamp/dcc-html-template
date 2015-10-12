@@ -11,18 +11,7 @@ Have a bug or want to add something? Please create an issue or a pull request ri
 https://github.com/devCodeCamp/dcc-html-template
 
 
-AUTHORS
--------
-
-**Nick Jaeger**
-
-[see code for other attributions]
-
-
 Copyright and License
 ---------------------
 
-The MIT License (MIT)
-Copyright (c) 2015 devCodeCamp
-
-see LICENSE.
+Copyright (c) 2015 devCodeCamp. All rights reserved.
